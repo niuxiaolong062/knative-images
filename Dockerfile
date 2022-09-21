@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+FROM pytorch/torchserve-kfs:0.6.0
