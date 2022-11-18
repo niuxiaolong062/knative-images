@@ -1,1 +1,1 @@
-FROM gcr.io/knative-samples/helloworld-go
+FROM docker.io/kubeflowkatib/pytorch-mnist:v1beta1-45c5727
