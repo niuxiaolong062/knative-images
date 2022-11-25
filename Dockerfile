@@ -1,1 +1,1 @@
-FROM docker.io/kubeflowkatib/pytorch-mnist:v1beta1-45c5727
+FROM gcr.io/kubeflow-ci/tf-mnist-with-summaries:1.0
