@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-ci/tf-mnist-with-summaries:1.0
+FROM quay.io/k8scsi/livenessprobe:v1.1.0
