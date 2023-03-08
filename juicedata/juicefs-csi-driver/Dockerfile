@@ -1,1 +1,1 @@
-FROM juicedata/juicefs-csi-driver:v0.18.1
+FROM juicedata/juicefs-csi-driver:v0.17.1
