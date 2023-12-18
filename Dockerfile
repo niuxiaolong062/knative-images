@@ -1,1 +1,1 @@
-FROM quay.io/k8scsi/csi-node-driver-registrar:v2.1.0
+FROM us-docker.pkg.dev/colab-images/public/runtime:latest
